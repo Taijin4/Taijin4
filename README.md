@@ -7,7 +7,7 @@
 <h1 align="center">👾 Bienvenue dans mon univers numérique 👾</h1>
 
 <p align="center">
-  <a href="https://github.com/Taijin4"><img src="https://img.shields.io/github/followers/TON_USERNAME?label=Follow&style=social&color=ff4081" alt="Follow me on GitHub" /></a>
+  <a href="https://github.com/Taijin4"><img src="https://img.shields.io/github/followers/Taijin4?label=Follow&style=social&color=ff4081" alt="Follow me on GitHub" /></a>
   <a href="https://github.com/Taijin4?tab=repositories"><img src="https://img.shields.io/badge/Repositories-123-blueviolet" alt="Repositories" /></a>
 </p>
 
